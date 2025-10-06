@@ -1,4 +1,7 @@
 // ejercicio 6
+string palabra, palabra2, nombre;
+int numero, sumatorio, sumatorio2, num, num2;
+int(){
 cout << "Ingrese un numero a calcular:" << endl;
 cin >> num;
 cout << "Ingrese un segundo numero a calcular :" << endl;
@@ -8,3 +11,4 @@ cout << "Resta: " << num - num2 << endl;
 cout << "Multiplicacion: " << num * num2 << endl;
 cout << "Division: " << num / num2 << endl;
 cout << "----------------------------------------" << endl;
+}
