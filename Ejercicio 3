@@ -1,5 +1,10 @@
 // Ejercicio 3
+string palabra, palabra2, nombre;
+int numero, sumatorio, sumatorio2, num, num2;
+int(){
+
 cout << "Ingrese un numero:" << endl;
 cin >> numero;
 cout << pow(numero, 2) << endl;
 cout << "----------------------------------------" << endl;
+}
