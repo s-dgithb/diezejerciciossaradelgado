@@ -1,0 +1,10 @@
+// ejercicio 6
+cout << "Ingrese un numero a calcular:" << endl;
+cin >> num;
+cout << "Ingrese un segundo numero a calcular :" << endl;
+cin >> num2;
+cout << "Suma: " << num + num2 << endl;
+cout << "Resta: " << num - num2 << endl;
+cout << "Multiplicacion: " << num * num2 << endl;
+cout << "Division: " << num / num2 << endl;
+cout << "----------------------------------------" << endl;
