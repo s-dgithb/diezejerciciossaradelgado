@@ -1,0 +1,17 @@
+int main()
+{
+	string palabra, palabra2, nombre;
+	int numero, sumatorio, sumatorio2, num, num2;
+	int numeroprom, numeroprom2, numeroprom3;
+  	// ejercicio 12
+	cout << "Ingrese un numero: " << endl;
+	cin >> numeroprom;
+	cout << "Ingrese un 2do numero: " << endl;
+	cin >> numeroprom2;
+	cout << "Ingrese un 3er numero: " << endl;
+	cin >> numeroprom3;
+	cout << "Promedio de los tres numeros: " << (numeroprom + numeroprom2 + numeroprom3) / 3 << endl;
+	cout << "----------------------------------------" << endl;
+
+
+}
