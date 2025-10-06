@@ -1,0 +1,18 @@
+int main()
+{
+	string palabra, palabra2, nombre;
+	int numero, sumatorio, sumatorio2, num, num2, area, perimetro, valor;
+	int numeroprom, numeroprom2, numeroprom3;
+	double hora = 1;
+	double segundos = 3600;
+	double minutos = 1;
+	double segundosmin = 60;
+	double segundosIng, resultadoHora, resultadomin;
+	// ejercicio 10
+	cout << "Ingrese un radio del circulo: " << endl;
+	cin >> valor;
+	area = (3.1416) * pow(valor, 2);
+	perimetro = 2 * (3.1416) * valor;
+	cout << "El area del circulo es: " << area << ", y el perimetro del circulo es: " << perimetro << endl;
+
+}
