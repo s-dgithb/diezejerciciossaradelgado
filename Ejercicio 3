@@ -1,0 +1,5 @@
+// Ejercicio 3
+cout << "Ingrese un numero:" << endl;
+cin >> numero;
+cout << pow(numero, 2) << endl;
+cout << "----------------------------------------" << endl;
