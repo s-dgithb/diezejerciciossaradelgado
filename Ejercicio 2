@@ -1,0 +1,5 @@
+// Ejercicio 2.
+cout << "Ingrese su nombre: ";
+cin >> nombre;
+cout << "Hola " << nombre << "!" << endl;
+cout << "----------------------------------------" << endl;
