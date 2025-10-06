@@ -1,7 +1,11 @@
 // ejercicio 4
+string palabra, palabra2, nombre;
+int numero, sumatorio, sumatorio2, num, num2;
+int(){
 cout << "Ingrese un numero:" << endl;
 cin >> sumatorio;
 cout << "Ingrese un segundo numero:" << endl;
 cin >> sumatorio2;
 cout << sumatorio + sumatorio2 << endl;
 cout << "----------------------------------------" << endl;
+}
