@@ -1,0 +1,7 @@
+// Ejercicio 1
+cout << "Ingrese una palabra:" << endl;
+cin >> palabra;
+cout << "Ingrese una segunda palabra:" << endl;
+cin >> palabra2;
+cout << palabra << " " << palabra2 << endl;
+cout << "----------------------------------------" << endl;
