@@ -1,0 +1,17 @@
+int main()
+{
+	string palabra, palabra2, nombre;
+	int numero, sumatorio, sumatorio2, num, num2;
+	int numeroprom, numeroprom2, numeroprom3;
+	double hora = 1;
+	double segundos = 3600;
+	double minutos = 1;
+	double segundosmin = 60;
+	double segundosIng, resultadoHora, resultadomin;
+	// ejercicio 22
+	cout << "Ingrese una cantidad de segundos: ";
+	cin >> segundosIng;
+	resultadomin = segundosIng * (minutos / segundosmin);
+	cout << "Conversion a min: " << resultadomin << endl;
+	cout << "----------------------------------------" << endl;
+}
