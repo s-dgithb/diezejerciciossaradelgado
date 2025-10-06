@@ -1,0 +1,7 @@
+// ejercicio 4
+cout << "Ingrese un numero:" << endl;
+cin >> sumatorio;
+cout << "Ingrese un segundo numero:" << endl;
+cin >> sumatorio2;
+cout << sumatorio + sumatorio2 << endl;
+cout << "----------------------------------------" << endl;
