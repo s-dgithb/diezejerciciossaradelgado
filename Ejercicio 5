@@ -1,4 +1,7 @@
 // ejercicio 5
+using namespace std;
+#include <iostream>
+#include <string>
 string palabra, palabra2, nombre;
 int numero, sumatorio, sumatorio2, num, num2;
 int(){
