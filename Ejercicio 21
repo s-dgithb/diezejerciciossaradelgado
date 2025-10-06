@@ -1,0 +1,16 @@
+int main()
+{
+	string palabra, palabra2, nombre;
+	int numero, sumatorio, sumatorio2, num, num2;
+	int numeroprom, numeroprom2, numeroprom3;
+	double hora = 1;
+	double segundos = 3600;
+	double segundosIng, resultadoHora;
+	//ejercicio 21
+	cout << "Ingrese una cantidad de segundos: ";
+	cin >> segundosIng;
+	resultadoHora = segundosIng * (hora / segundos);
+	cout << "Conversion a horas: " << resultadoHora;
+	cout << "----------------------------------------" << endl;
+
+}
