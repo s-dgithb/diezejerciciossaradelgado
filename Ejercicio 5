@@ -1,6 +1,10 @@
 // ejercicio 5
+string palabra, palabra2, nombre;
+int numero, sumatorio, sumatorio2, num, num2;
+int(){
 cout << "Resultado 1: " << -5 + 8 * 6 << endl;
 cout << "Resultado 2: " << (55+9) % 9 << endl;
 cout << "Resultado 3: " << 20 + -3*5 / 8 << endl;
 cout << "Resultado 4: " << 5 + 15 / 3 * 2 - 8 % 3 << endl;
 cout << "----------------------------------------" << endl;
+}
